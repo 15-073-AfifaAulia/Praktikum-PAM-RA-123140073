@@ -13,4 +13,4 @@ Aplikasi profil sederhana berbasis Android menggunakan Jetpack Compose.
 
 |       Tampilan Awal (Hidden)        |        Tampilan Detail (Shown)        |
 |:-----------------------------------:|:-------------------------------------:|
-| ![awal tampilan](awal tampilan.png) | ![akhir tampilan](akhir tampilan.png) |
+| ![awal tampilan](awal_tampilan.png) | ![akhir tampilan](akhir_tampilan.png) |
